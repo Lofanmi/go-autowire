@@ -1,5 +1,7 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
+github.com/Just-maple/go-autowire v0.0.0-20220621144722-b388aef0c420 h1:bsbn1v0/FU8XMlUy1v+hzO8AhDaOpnmk29k8qRXo6dw=
+github.com/Just-maple/go-autowire v0.0.0-20220621144722-b388aef0c420/go.mod h1:6uwhz68YznaSZB4/a78lv44DEW7NnpN8js0rVhiLaOs=
 github.com/Lofanmi/xtoolinternal v0.0.0-20231013112530-43d8280c323c h1:kXt+FkyP3o8UGikRFkL8urxt1lPl7xVJBHsvye2Qopo=
 github.com/Lofanmi/xtoolinternal v0.0.0-20231013112530-43d8280c323c/go.mod h1:Cw+Px1JjCBxXq+tfr49ksnYQu8v2WdOlUyBCU8PToes=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=

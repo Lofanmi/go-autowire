@@ -1,8 +1,9 @@
-module github.com/Just-maple/go-autowire
+module github.com/Lofanmi/go-autowire
 
 go 1.17
 
 require (
+	github.com/Just-maple/go-autowire v0.0.0-20220621144722-b388aef0c420
 	github.com/Just-maple/xtoolinternal v0.0.0-20201105105944-7e4b8beeb92f
 	github.com/google/wire v0.5.0
 	github.com/spf13/cobra v1.0.0
