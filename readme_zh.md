@@ -13,7 +13,7 @@
 安装`wire`:
 
 ```sh
-go get github.com/google/wire/cmd/wire
+go install github.com/google/wire/cmd/wire@latest
 ```
 
 then 
@@ -21,7 +21,7 @@ then
 安装`gutowire`
 
 ```sh
-go get github.com/Lofanmi/go-autowire/cmd/gutowire
+go install github.com/Lofanmi/go-autowire/cmd/gutowire@latest
 ```
 
 确保`$GOPATH/bin`已经添加到环境变量`$PATH`

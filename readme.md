@@ -12,13 +12,13 @@ but it did `simplify` the wire usage and make wire `much more stronger `
 
 Install Wire by running:
 ```sh
-go get github.com/google/wire/cmd/wire
+go install github.com/google/wire/cmd/wire@latest
 ```
 then 
 
 Install Gutowire by running:
 ```sh
-go get github.com/Lofanmi/go-autowire/cmd/gutowire
+go install github.com/Lofanmi/go-autowire/cmd/gutowire@latest
 ```
 and ensuring that $GOPATH/bin is added to your $PATH.
 
