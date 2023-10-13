@@ -1,10 +1,10 @@
 package provider
 
 import (
-	"github.com/Just-maple/go-autowire/example_iwanta"
+	"github.com/Lofanmi/go-autowire/example_iwanta"
 )
 
-//@autowire()
+// @autowire()
 func ProvideIwantaDep() example_iwanta.Dep {
 	return example_iwanta.Dep{}
 }

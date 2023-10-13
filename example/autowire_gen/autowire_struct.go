@@ -3,13 +3,13 @@
 package autowire_gen
 
 import (
-	"github.com/Just-maple/go-autowire/example/dependencies"
-	"github.com/Just-maple/go-autowire/example/dependencies/test_b"
-	"github.com/Just-maple/go-autowire/example/dependencies/test_b/test"
-	test2 "github.com/Just-maple/go-autowire/example/dependencies/test_b/test/test"
-	test_b2 "github.com/Just-maple/go-autowire/example/dependencies/test_b/test/test_b"
-	test3 "github.com/Just-maple/go-autowire/example/dependencies/test_b/test/test_b/test"
-	"github.com/Just-maple/go-autowire/example/dependencies/test_c"
+	"github.com/Lofanmi/go-autowire/example/dependencies"
+	"github.com/Lofanmi/go-autowire/example/dependencies/test_b"
+	"github.com/Lofanmi/go-autowire/example/dependencies/test_b/test"
+	test2 "github.com/Lofanmi/go-autowire/example/dependencies/test_b/test/test"
+	test_b2 "github.com/Lofanmi/go-autowire/example/dependencies/test_b/test/test_b"
+	test3 "github.com/Lofanmi/go-autowire/example/dependencies/test_b/test/test_b/test"
+	"github.com/Lofanmi/go-autowire/example/dependencies/test_c"
 	"github.com/google/wire"
 )
 

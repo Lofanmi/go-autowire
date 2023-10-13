@@ -1,9 +1,7 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/Just-maple/go-autowire v0.0.0-20220621144722-b388aef0c420 h1:bsbn1v0/FU8XMlUy1v+hzO8AhDaOpnmk29k8qRXo6dw=
-github.com/Just-maple/go-autowire v0.0.0-20220621144722-b388aef0c420/go.mod h1:6uwhz68YznaSZB4/a78lv44DEW7NnpN8js0rVhiLaOs=
-github.com/Lofanmi/xtoolinternal v0.0.0-20231013112530-43d8280c323c h1:kXt+FkyP3o8UGikRFkL8urxt1lPl7xVJBHsvye2Qopo=
-github.com/Lofanmi/xtoolinternal v0.0.0-20231013112530-43d8280c323c/go.mod h1:Cw+Px1JjCBxXq+tfr49ksnYQu8v2WdOlUyBCU8PToes=
+github.com/Lofanmi/xtoolinternal v0.0.0-20231013113255-bb7a95227e7a h1:MzH1b2kzJqRyJISFlqsgxCFbCAaIL3K3tq6pzOz+4Ps=
+github.com/Lofanmi/xtoolinternal v0.0.0-20231013113255-bb7a95227e7a/go.mod h1:kX5iZF1pcnXzFBmNKrzxerO14m2vG/Hk9dnk7AqMY8E=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
 github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf/go.mod h1:ybxpYRFXyAe+OPACYpWeL0wqObRcbAqCMya13uyzqw0=
