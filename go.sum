@@ -2,6 +2,8 @@ cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMT
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/Lofanmi/xtoolinternal v0.0.0-20231014112626-f5c23a965315 h1:QHpKnIEiCIeUF/anTgLe9QKTQrLGFUSDARSp6ujJ+K8=
 github.com/Lofanmi/xtoolinternal v0.0.0-20231014112626-f5c23a965315/go.mod h1:4ZazVEkcuiyGOkVHjfSb9N8PHIc5O6gUL6T0nJYoCxw=
+github.com/Lofanmi/xtoolinternal v0.0.0-20240911113947-5c3aff8eda36 h1:7PCYwLxDYzWbl+DbkBYUb4yTpcOu/eimXBmO+IdEUQU=
+github.com/Lofanmi/xtoolinternal v0.0.0-20240911113947-5c3aff8eda36/go.mod h1:72RSQ89U+3mvVS5VMJ02HZovk3Mr98KLRetUzynkq3M=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
 github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf/go.mod h1:ybxpYRFXyAe+OPACYpWeL0wqObRcbAqCMya13uyzqw0=

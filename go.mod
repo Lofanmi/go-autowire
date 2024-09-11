@@ -3,7 +3,7 @@ module github.com/Lofanmi/go-autowire
 go 1.17
 
 require (
-	github.com/Lofanmi/xtoolinternal v0.0.0-20231014112626-f5c23a965315
+	github.com/Lofanmi/xtoolinternal v0.0.0-20240911113947-5c3aff8eda36
 	github.com/google/wire v0.5.0
 	github.com/spf13/cobra v1.0.0
 	github.com/stoewer/go-strcase v1.2.0
