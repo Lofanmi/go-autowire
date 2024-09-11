@@ -13,7 +13,7 @@ require (
 )
 
 require (
-	github.com/charlievieth/fastwalk v1.0.1 // indirect
+	github.com/charlievieth/fastwalk v1.0.9-0.20240831210941-940d64f94b80 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/spf13/cast v1.5.1 // indirect
 	github.com/spf13/pflag v1.0.3 // indirect
